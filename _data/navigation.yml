@@ -1,5 +1,5 @@
 main:
-  - title: '<i class="fa-regular fa-file-pdf"></i>PDF du cours'
+  - title: '<i class="fa-regular fa-file-pdf"></i> du cours'
     url: "https://huggingface.co/datasets/lbourdois/PDF_DL_cours_NYU_fr/resolve/main/PDF_cours_DL_NY_fr.pdf"
   - title: '<i class="fa-brands fa-youtube"></i> Vidéos YouTube'
     url: "https://www.youtube.com/watch?v=0bMe_vCZo30&list=PL5v98r88P9ZanM5WxvQcLJK-GKr4hQms5"
